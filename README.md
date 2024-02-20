@@ -4,8 +4,8 @@
 
 - 👋 Hi, I’m @rmEleven.
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning front-end and back-end development.
-- 💞️ I’m looking to collaborate on everything.
+- 🌱 I’m currently learning deep learning and machine learning.
+- 💞️ I’m looking to collaborate on computer vision and robotics.
 - 🏫 I'm studying Software Engineering at Tongji University
 - 📫 You can contact me via email 2051475@tongji.edu.cn
 
