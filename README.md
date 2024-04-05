@@ -2,7 +2,7 @@
 <a href="https://github.com/rmEleven"><img src="https://img.shields.io/github/followers/rmEleven?style=social"/></a>
 </p>
 
-- 👋 Hi, I’m @rmEleven.
+- 👋 Hi, I’m Hao Wang.
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning deep learning and machine learning.
 - 💞️ I’m looking to collaborate on computer vision and robotics.
