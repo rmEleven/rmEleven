@@ -5,9 +5,8 @@
 - 👋 Hi, I’m Hao Wang.
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning deep learning and machine learning.
-- 💞️ I’m looking to collaborate on computer vision and robotics.
 - 🏫 I'm studying Software Engineering at Tongji University
-- 📫 You can contact me via email 2051475@tongji.edu.cn
+- 📫 You can contact me via email 2051475@tongji.edu.cn and haowang1475@gmail.com
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rmEleven&show_icons=true&theme=tokyonight" height="200" alt="stats graph"/>
