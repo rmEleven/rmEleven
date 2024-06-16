@@ -3,8 +3,8 @@
 </p>
 
 - 👋 Hi, I’m Hao Wang.
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning deep learning and machine learning.
+- 👀 I’m interested in AI and Robotics.
+- 🌱 I’m currently learning NLP and CV.
 - 🏫 I'm studying Software Engineering at Tongji University
 - 📫 You can contact me via email 2051475@tongji.edu.cn and haowang1475@gmail.com
 
