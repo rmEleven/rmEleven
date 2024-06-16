@@ -2,7 +2,7 @@
 <a href="https://github.com/rmEleven"><img src="https://img.shields.io/github/followers/rmEleven?style=social"/></a>
 </p>
 
-- 👋 Hi, I’m Hao Wang.
+- 👋 Hi, I’m Thomas Wang.
 - 👀 I’m interested in AI and Robotics.
 - 🌱 I’m currently learning NLP and CV.
 - 🏫 I'm studying Software Engineering at Tongji University
